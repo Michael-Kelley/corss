@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bootstrap", "Bootstrap\Bootstrap.vcxproj", "{F68433C2-E434-4961-98E8-D65B5A0A6807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeeSharp", "SeeSharp\SeeSharp.csproj", "{5FD93A10-C67C-4027-8B87-FAB52288EE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68433C2-E434-4961-98E8-D65B5A0A6807}.Debug|x86.ActiveCfg = Release|Win32
+		{F68433C2-E434-4961-98E8-D65B5A0A6807}.Debug|x86.Build.0 = Release|Win32
+		{F68433C2-E434-4961-98E8-D65B5A0A6807}.Release|x86.ActiveCfg = Release|Win32
+		{F68433C2-E434-4961-98E8-D65B5A0A6807}.Release|x86.Build.0 = Release|Win32
+		{5FD93A10-C67C-4027-8B87-FAB52288EE2D}.Debug|x86.ActiveCfg = Release|x86
+		{5FD93A10-C67C-4027-8B87-FAB52288EE2D}.Debug|x86.Build.0 = Release|x86
+		{5FD93A10-C67C-4027-8B87-FAB52288EE2D}.Release|x86.ActiveCfg = Release|x86
+		{5FD93A10-C67C-4027-8B87-FAB52288EE2D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
